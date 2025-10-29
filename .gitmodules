@@ -1,0 +1,6 @@
+[submodule "motion_retargeting_pub"]
+	path = motion_retargeting_pub
+	url = https://github.com/Ethan-nzw/motion_retargeting_pub.git
+[submodule "GMR"]
+	path = GMR
+	url = https://github.com/Ethan-nzw/motion_retargeting_pub.git
